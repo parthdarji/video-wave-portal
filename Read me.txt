@@ -1,0 +1,9 @@
+Steps to use this project
+
+1>  first import the dbvidio databse in mysql.
+2>  import the video wave streaming project in netbeans.
+3>  set the web.xml file.
+4>  run the project 
+
+
+and finally enjoy............
